@@ -1,0 +1,52 @@
+.cont{
+    background-color: black;
+    width: 100vw;
+    height: auto;
+}
+
+.catg{
+    display: flex;
+}
+
+.head{
+    color: rgb(212, 194, 194);
+    margin-top: 80px;
+}
+.line{
+    width: 75%;
+    height: 2px;
+    border: none;
+    background-color: rgb(165, 148, 148);
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.catg1{
+    display: flex;
+}
+
+.head1{
+    color: rgb(212, 194, 194);
+    margin-top: 60px;
+}
+.line1{
+    width: 85%;
+    height: 2px;
+    border: none;
+    background-color:  rgb(165, 148, 148);
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cat{
+    margin-top: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardrow{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}

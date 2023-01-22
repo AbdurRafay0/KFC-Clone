@@ -1,0 +1,49 @@
+.container{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    border: 0.2px solid black;
+}
+
+.box{
+    border: 1px solid rgba(28,24,22,255);
+    width: 60vw;
+    height: 70vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    background-color: rgba(28,24,22,255);
+   
+}
+
+
+.input{
+    width: 30vw;
+    background-color: rgb(66, 62, 62);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+.input2{
+    width: 30vw;
+    background-color: rgb(66, 62, 62);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.inpname{
+    margin-left: 15vw;
+    color: rgb(255, 9, 50);
+}
+.btn{
+    background-color: rgb(255, 9, 50);
+    margin-left: 15vw;
+    border: none;
+    width: 30vw;
+    margin-top: 5%;
+}
+.btn:hover{
+    background-color: rgb(192, 11, 41);
+    
+}
+

@@ -1,0 +1,40 @@
+.bgc {
+    background-color: black;
+}
+
+.clr {
+    color: white;
+}
+
+.btn {
+    background-color: rgb(41, 39, 39);
+    border: none;
+    width: 105px;
+    height: 32px;
+    display: flex;
+}
+
+
+.btn:hover {
+    background-color: rgb(61, 54, 54);
+
+}
+
+.btnsign {
+    background-color: rgb(255, 9, 50);
+    color: white;
+    border: none;
+}
+
+.btnsign:hover {
+    background-color: rgb(192, 11, 41);
+}
+
+.buck{
+    filter: brightness(0) invert(1);
+    
+}
+.buckdiv{
+    width: 10px;
+    
+}

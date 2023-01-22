@@ -1,0 +1,40 @@
+.card{
+    width: 270px;
+    height: auto;
+    margin-top: 30px;
+    /* color: white;
+    background-color: black; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.incard{
+    background-color: rgba(28,24,22,255);
+    color: white;
+}
+
+.ll{
+    display: flex;
+}
+.cart{
+    background-color: rgb(211, 64, 64);
+    border: none;
+    margin-left: auto;
+}
+.cart:hover{
+    background-color: rgb(167, 38, 38);
+}
+.price{
+    margin-top: 5px;
+}
+.img{
+    width: 230px;
+    margin-top: 10px;
+    margin-left: 18px;
+
+}
+.img:hover{
+    transform: scale(1.02);
+    /* -webkit-transform: scale(1.02);
+    -ms-transform: scale(1.02); */
+}

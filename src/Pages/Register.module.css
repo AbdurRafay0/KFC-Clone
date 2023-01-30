@@ -1,49 +1,65 @@
 .container{
     background-color: black;
     width: 100vw;
-    height: 100vh;
+    height: 110vh;
     border: 0.2px solid black;
 }
 
 .box{
     border: 1px solid rgba(28,24,22,255);
-    width: 60vw;
-    height: 70vh;
+    width: 80%;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5vh;
-    background-color: rgba(28,24,22,255);
+    margin-top: 12vh;
+    background-color: #1c1816;
    
 }
 
+.head{
+    color: white;
+    margin-left: 55%;
+    margin-top: 7%;
+}
 
 .input{
-    width: 30vw;
+    width: 25vw;
+    height: 30%;
     background-color: rgb(66, 62, 62);
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 15%;
+    margin-left: 55%;
+    border-radius: 20px;
+    border: none;
+    margin-top: 3%;
 }
 .input2{
-    width: 30vw;
+    width: 25vw;
     background-color: rgb(66, 62, 62);
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
+    margin-left: 55%;
+    border-radius: 20px;
+    border: none;
+    margin-top: 3%;
 }
 .inpname{
-    margin-left: 15vw;
+    margin-left: 55%;
     color: rgb(255, 9, 50);
 }
 .btn{
     background-color: rgb(255, 9, 50);
-    margin-left: 15vw;
+    margin-left: 55%;
     border: none;
-    width: 30vw;
-    margin-top: 5%;
+    width: 25vw;
+    margin-top: 2%;
 }
 .btn:hover{
     background-color: rgb(192, 11, 41);
     
 }
+.error{
+    margin-left: 55%;
+}
 
+.head2{
+    color: white;
+    margin-left: 43vw;
+    margin-top: 3%;
+}

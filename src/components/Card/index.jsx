@@ -19,7 +19,7 @@ function Card({ product }) {
 
           <div className={`lastline ${styles.ll}`}>
             <h5 className={`price ${styles.price}`}>{product.price}</h5>
-            <button className={`btn btn-primary ${styles.cart}`}>Add to Cart</button>
+            <button className={`btn btn-primary ${styles.cart}`}><h6>Add to Bucket</h6></button>
           </div>
 
         </div>

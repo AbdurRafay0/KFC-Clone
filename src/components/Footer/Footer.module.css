@@ -1,44 +1,81 @@
-.footer{
+.footer {
     height: auto;
-    background-color: rgba(28,24,22,255);
+    background-color: rgba(28, 24, 22, 255);
     color: rgb(165, 155, 155);
-    border: 0.3px solid rgb(34, 12, 12);
-    
-}
-.table{
-    border-bottom: none;
-    margin-top: 40px;
+    border: 0.3px solid #1c1816;
+
 }
 
-.btn{
+.foot {
+    display: flex;
+}
+
+.imgs {
+    border: 1px solid white;
+    margin-left: 80%;
+}
+
+.find {
+    margin-left: 30%;
+
+}
+
+.line {
+    border-right: 1px solid rgb(136, 130, 130);
+}
+.foo{
+    display: flex;
+}
+
+.table {
+    border-bottom: none;
+    /* border: 1px solid white; */
+    width: 65%;
+    tab-size: 30vh;
+    margin-left: 8%;
+    margin-top: 3%;
+    
+}
+
+.td {
+    /* border: 1px solid white; */
+    width: 10%;
+    border: none;
+}
+
+.btn {
     /* background-color: rgba(28,24,22,255); */
     border: none;
     color: rgb(221, 213, 213);
-    
-    
+    margin-top: -10%;
+
 }
-.btn:hover{
+
+.btn:hover {
     color: rgb(136, 130, 130);
     text-decoration: underline;
 }
-.btn1{
+
+.btn1 {
     border: none;
     color: rgb(255, 255, 255);
+    margin-top: 5px;
 }
-.btn1:hover{
+
+.btn1:hover {
     color: white;
 }
-.footimg{
+
+.footimg {
     margin-top: 40px;
-    background-color: rgba(28,24,22,255);
+    background-color: rgba(28, 24, 22, 255);
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    
-
 }
-.foot{
+
+.foot {
     width: 170px;
     border: 1px soliod red;
 }

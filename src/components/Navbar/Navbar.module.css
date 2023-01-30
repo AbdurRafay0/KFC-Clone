@@ -1,3 +1,7 @@
+/* .position{
+    position: sticky ;
+    top: 0;
+} */
 .bgc {
     background-color: black;
 }
@@ -6,8 +10,19 @@
     color: white;
 }
 
+.btns{
+    display: flex;
+    margin-right: auto;
+}
 .btn {
-    background-color: rgb(41, 39, 39);
+    background-color: #48413e;
+    border: none;
+    width: 105px;
+    height: 32px;
+    display: flex;
+}
+.btn1 {
+    background-color: #1c1816;
     border: none;
     width: 105px;
     height: 32px;
@@ -15,26 +30,51 @@
 }
 
 
+
 .btn:hover {
-    background-color: rgb(61, 54, 54);
+    background-color: #48413e;
+
+}
+.btn1:hover {
+    background-color: #1c1816;
 
 }
 
+.location{
+    display: flex;
+    background-color: #1c1816;
+    color: white;
+    border-radius: 7px;
+    justify-content: center;
+}
+.loch6{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
 .btnsign {
-    background-color: rgb(255, 9, 50);
+    background-color: #e4002b;
     color: white;
     border: none;
+    margin-left: auto;
 }
 
 .btnsign:hover {
     background-color: rgb(192, 11, 41);
 }
 
-.buck{
-    filter: brightness(0) invert(1);
+
+.buckdiv{
+    width: 85px;
     
 }
-.buckdiv{
-    width: 10px;
-    
+.bucket{
+    margin-right: auto;
+    margin-left: auto;
+}
+.canvas{
+    color: black;
+    width: auto;
+    height: auto;
+    margin-left: 20%
 }

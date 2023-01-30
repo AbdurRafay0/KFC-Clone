@@ -9,7 +9,7 @@
 }
 
 .incard{
-    background-color: rgba(28,24,22,255);
+    background-color: #1c1816;
     color: white;
 }
 
@@ -17,7 +17,7 @@
     display: flex;
 }
 .cart{
-    background-color: rgb(211, 64, 64);
+    background-color: #e4002b;
     border: none;
     margin-left: auto;
 }
